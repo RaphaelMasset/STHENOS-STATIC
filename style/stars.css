@@ -1,7 +1,7 @@
 html {
   height: 100%;
  
-  overflow: hidden;
+  
 }
 
 #stars {
@@ -55,8 +55,6 @@ html {
   box-shadow: 437px 1898px #FFF, -552px 683px #FFF, 666px 533px #FFF, -320px 235px #FFF, -455px 923px #FFF, -731px 1783px #FFF, -260px 1351px #FFF, -767px 1176px #FFF, 497px 89px #FFF, -846px 919px #FFF, 594px 1217px #FFF, 642px 568px #FFF, -868px 1544px #FFF, -841px 1862px #FFF, -680px 742px #FFF, 589px 605px #FFF, -57px 1586px #FFF, -254px 614px #FFF, -374px 38px #FFF, -560px 694px #FFF, -306px 1076px #FFF, 432px 1597px #FFF, -334px 157px #FFF, 136px 900px #FFF, -162px 290px #FFF, 815px 904px #FFF, -494px 1728px #FFF, 719px 1291px #FFF, -968px 1290px #FFF, 564px 1905px #FFF, 383px 757px #FFF, 721px 1262px #FFF, -148px 1902px #FFF, -766px 771px #FFF, 366px 1577px #FFF, -492px 685px #FFF, -244px 344px #FFF, 172px 1507px #FFF, 606px 355px #FFF, -828px 472px #FFF, 737px 1066px #FFF, -934px 1655px #FFF, -160px 1258px #FFF, -543px 92px #FFF, -349px 1294px #FFF, -402px 1784px #FFF, -83px 1859px #FFF, -388px 1417px #FFF, 819px 572px #FFF, 570px 1002px #FFF, 347px 1987px #FFF, -989px 674px #FFF, -766px 1703px #FFF, -972px 1695px #FFF, 730px 1995px #FFF, -228px 576px #FFF, -799px 1970px #FFF, -843px 966px #FFF, 541px 823px #FFF, -746px 989px #FFF, -320px 1197px #FFF, 245px 898px #FFF, -290px 1482px #FFF, 358px 241px #FFF, 458px 1493px #FFF, -52px 1780px #FFF, 321px 1468px #FFF, 544px 1890px #FFF, -529px 221px #FFF, 724px 17px #FFF, -947px 1187px #FFF, -988px 169px #FFF, -552px 416px #FFF, -691px 357px #FFF, -391px 63px #FFF, -992px 1311px #FFF, 953px 841px #FFF, 695px 49px #FFF, 219px 493px #FFF, -939px 1467px #FFF, -779px 522px #FFF, 137px 1798px #FFF, -652px 1085px #FFF, 243px 1902px #FFF, 602px 1792px #FFF, 115px 4px #FFF, 160px 499px #FFF, 893px 1092px #FFF, -970px 1638px #FFF, -215px 903px #FFF, 671px 1404px #FFF, 282px 1176px #FFF, -932px 584px #FFF, -310px 1666px #FFF, 926px 735px #FFF, -592px 1328px #FFF, 657px 563px #FFF, 389px 710px #FFF, 60px 1453px #FFF, -581px 931px #FFF;
 }
 
-
-
 @keyframes animStar {
   from {
     transform: translateY(0px);
@@ -65,5 +63,3 @@ html {
     transform: translateY(-2000px);
   }
 }
-
-/*# sourceMappingURL=stars.css.map */

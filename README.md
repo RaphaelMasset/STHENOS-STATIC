@@ -35,6 +35,8 @@ xdg-open theory.html  # Linux
 
 ## Example Session
 
+use the link: https://raphaelmasset.github.io/STHENOS-STATIC/
+
 Launch theory.html in a browser.
 
 Explore sections via the top hexagonal navigation: INDEX, THEORY, PROGRAMS, CALCULATORS, LINKS, CONTACT.
